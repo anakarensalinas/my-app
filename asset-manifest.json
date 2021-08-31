@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/anakarensalinas/my-app/static/css/main.a617e044.chunk.css",
-    "main.js": "/anakarensalinas/my-app/static/js/main.dbe46be9.chunk.js",
-    "main.js.map": "/anakarensalinas/my-app/static/js/main.dbe46be9.chunk.js.map",
-    "runtime-main.js": "/anakarensalinas/my-app/static/js/runtime-main.dd2d6e42.js",
-    "runtime-main.js.map": "/anakarensalinas/my-app/static/js/runtime-main.dd2d6e42.js.map",
-    "static/js/2.87a999ed.chunk.js": "/anakarensalinas/my-app/static/js/2.87a999ed.chunk.js",
-    "static/js/2.87a999ed.chunk.js.map": "/anakarensalinas/my-app/static/js/2.87a999ed.chunk.js.map",
-    "static/js/3.8a8ab403.chunk.js": "/anakarensalinas/my-app/static/js/3.8a8ab403.chunk.js",
-    "static/js/3.8a8ab403.chunk.js.map": "/anakarensalinas/my-app/static/js/3.8a8ab403.chunk.js.map",
+    "main.css": "/anakarensalinas/my-app/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/anakarensalinas/my-app/static/js/main.599d30cc.chunk.js",
+    "main.js.map": "/anakarensalinas/my-app/static/js/main.599d30cc.chunk.js.map",
+    "runtime-main.js": "/anakarensalinas/my-app/static/js/runtime-main.553b9bf1.js",
+    "runtime-main.js.map": "/anakarensalinas/my-app/static/js/runtime-main.553b9bf1.js.map",
+    "static/js/2.121d8f72.chunk.js": "/anakarensalinas/my-app/static/js/2.121d8f72.chunk.js",
+    "static/js/2.121d8f72.chunk.js.map": "/anakarensalinas/my-app/static/js/2.121d8f72.chunk.js.map",
+    "static/js/3.5f36cdae.chunk.js": "/anakarensalinas/my-app/static/js/3.5f36cdae.chunk.js",
+    "static/js/3.5f36cdae.chunk.js.map": "/anakarensalinas/my-app/static/js/3.5f36cdae.chunk.js.map",
     "index.html": "/anakarensalinas/my-app/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/anakarensalinas/my-app/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.87a999ed.chunk.js.LICENSE.txt": "/anakarensalinas/my-app/static/js/2.87a999ed.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/anakarensalinas/my-app/static/media/logo.6ce24c58.svg"
+    "static/css/main.6dea0f05.chunk.css.map": "/anakarensalinas/my-app/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.121d8f72.chunk.js.LICENSE.txt": "/anakarensalinas/my-app/static/js/2.121d8f72.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dd2d6e42.js",
-    "static/js/2.87a999ed.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.dbe46be9.chunk.js"
+    "static/js/runtime-main.553b9bf1.js",
+    "static/js/2.121d8f72.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.599d30cc.chunk.js"
   ]
 }
