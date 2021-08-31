@@ -1,25 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from 'react';
+import Photo from "./components/Photo.js";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component {
+  state = {
+    photo: ""
+  };
+  componentDidMount() {
+    fetch('https://api.nasa.gov/planetary/apod?api_key=73VmakIZ9pAeE8qbzb4y6J1UCd0h6AZUwwUdRqLn')
+      .then(response => response.json())
+      .then(json => this.setState({ photo: json }));
+  }
+  render() {
+    return (
+      <div>
+        <h1>NASA Astronomy Picture of the Day</h1>
+        <Photo photo={this.state.photo}/>
+      </div>
+    );
+  }
 }
-
 export default App;
